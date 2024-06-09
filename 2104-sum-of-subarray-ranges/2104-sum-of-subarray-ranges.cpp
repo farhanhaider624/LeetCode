@@ -6,14 +6,25 @@ public:
     long long subArrayRanges(vector<int>& nums) {
         int n=nums.size();
         ll totalSum=0;
-        for(int i=0; i<n; i++){
-            int minVal=nums[i], maxVal=nums[i];
-            for(int j=i; j<n; j++){
-                maxVal=max(maxVal, nums[j]);
-                minVal=min(minVal, nums[j]);
-                ll diff=maxVal-minVal;
-                totalSum+=diff;
+        stack<int> s;
+        for(int i=0; i<=n; i++){
+            while(!s.empty() && (i==n || nums[s.top()]>=nums[i])){
+                int mid=s.top();
+                s.pop();
+                int l= s.size()==0?-1:s.top();
+                totalSum-=(ll)nums[mid]*(i-mid)*(mid-l);
             }
+            s.push(i);
+        }
+        while(!s.empty()) s.pop();
+        for(int i=0; i<=n; i++){
+            while(!s.empty() && (i==n || nums[s.top()]<=nums[i])){
+                int mid=s.top();
+                s.pop();
+                int l=s.size()==0?-1:s.top();
+                totalSum+=(ll)nums[mid] * (i-mid)*(mid-l);
+            }
+            s.push(i);
         }
         return totalSum;
     }
