@@ -10,20 +10,30 @@
  */
 class Solution {
 public:
-    vector<int> nextLargerNodes(ListNode* head) {
-        vector<int> temp;
-        ListNode* ptr=head;
-        while(ptr!=NULL){
-            temp.push_back(ptr->val);
-            ptr=ptr->next;
+    ListNode* reverseLL(ListNode* head){
+        ListNode* prev=NULL;
+        ListNode* fast=head->next;
+        while(fast!=NULL){
+            head->next=prev;
+            prev=head;
+            head=fast;
+            fast=fast->next;
         }
+        head->next=prev;
+        return head;
+    }
+    vector<int> nextLargerNodes(ListNode* head) {
+        head = reverseLL(head);
+        ListNode* ptr=head;
         stack<int> st;
         vector<int> ans;
-        for(int i=temp.size()-1; i>=0; i--){
-            while(!st.empty() && st.top()<=temp[i]) st.pop();
+        while(ptr!=NULL){
+            // cout<<ptr->val;
+            while(!st.empty() && st.top()<=ptr->val) st.pop();
             if(st.empty()) ans.push_back(0);
             else ans.push_back(st.top());
-            st.push(temp[i]);
+            st.push(ptr->val);
+            ptr=ptr->next;
         }
         reverse(ans.begin(), ans.end());
         return ans;
