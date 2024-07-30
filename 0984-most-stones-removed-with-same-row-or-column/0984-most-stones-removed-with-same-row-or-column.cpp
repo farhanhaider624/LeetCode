@@ -38,7 +38,7 @@ public:
             stoneNodes[nodeRow]=1;
             stoneNodes[nodeCol]=1;
         }
-        // for(int i=0; i<n; i++) mp[find(i)]++;
+        // now we will find the number of ultimate parents or total parents;
         int cnt=0;
         for(auto &it:stoneNodes){
             if(find(it.first)==it.first) cnt++;
