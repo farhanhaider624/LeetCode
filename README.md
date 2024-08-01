@@ -25,6 +25,7 @@
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1706-min-cost-to-connect-all-points](https://github.com/farhanhaider624/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2727-number-of-senior-citizens](https://github.com/farhanhaider624/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Union Find
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
+| [2727-number-of-senior-citizens](https://github.com/farhanhaider624/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Depth-First Search
 |  |
 | ------- |
