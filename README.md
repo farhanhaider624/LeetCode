@@ -67,4 +67,8 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/farhanhaider624/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
