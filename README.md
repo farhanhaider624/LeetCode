@@ -65,6 +65,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/farhanhaider624/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/farhanhaider624/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
@@ -77,6 +78,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/farhanhaider624/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/farhanhaider624/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -88,6 +90,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/farhanhaider624/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/farhanhaider624/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Sorting
 |  |
 | ------- |
@@ -132,8 +135,13 @@
 |  |
 | ------- |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/farhanhaider624/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Simulation
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/farhanhaider624/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Counting
+|  |
+| ------- |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 <!---LeetCode Topics End-->
