@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -85,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/farhanhaider624/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -106,6 +108,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
