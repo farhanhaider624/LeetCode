@@ -18,6 +18,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/farhanhaider624/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/farhanhaider624/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/farhanhaider624/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/farhanhaider624/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/farhanhaider624/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/farhanhaider624/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
