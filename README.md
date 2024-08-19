@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0213-house-robber-ii) |
+| [0650-2-keys-keyboard](https://github.com/farhanhaider624/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/farhanhaider624/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0650-2-keys-keyboard](https://github.com/farhanhaider624/LeetCode/tree/master/0650-2-keys-keyboard) |
 ## Tree
 |  |
 | ------- |
