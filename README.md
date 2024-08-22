@@ -10,6 +10,7 @@
 | [0213-house-robber-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/farhanhaider624/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [1250-longest-common-subsequence](https://github.com/farhanhaider624/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/farhanhaider624/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -70,6 +71,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1250-longest-common-subsequence](https://github.com/farhanhaider624/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2727-number-of-senior-citizens](https://github.com/farhanhaider624/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Depth-First Search
