@@ -40,6 +40,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/farhanhaider624/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/farhanhaider624/LeetCode/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/farhanhaider624/LeetCode/tree/master/0650-2-keys-keyboard) |
 ## Tree
 |  |
@@ -220,4 +223,8 @@
 |  |
 | ------- |
 | [2211-k-radius-subarray-averages](https://github.com/farhanhaider624/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
