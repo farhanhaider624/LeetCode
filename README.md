@@ -75,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/farhanhaider624/LeetCode/tree/master/0038-count-and-say) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
