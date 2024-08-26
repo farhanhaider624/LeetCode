@@ -43,6 +43,7 @@
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
+| [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/farhanhaider624/LeetCode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -182,6 +184,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/farhanhaider624/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
