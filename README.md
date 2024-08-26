@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
@@ -158,6 +159,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
