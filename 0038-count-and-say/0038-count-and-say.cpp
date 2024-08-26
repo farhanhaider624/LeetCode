@@ -18,12 +18,10 @@ public:
         }
         return ans;
     }
-    string func(int n){
-        if(n==1) return "1";
-        string s=func(n-1);
-        return RLE(s);
-    }
+
     string countAndSay(int n) {
-        return func(n);
+        if(n==1) return "1";
+        string s=countAndSay(n-1);
+        return RLE(s);
     }
 };
