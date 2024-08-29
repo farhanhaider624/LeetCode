@@ -46,6 +46,7 @@
 | [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/farhanhaider624/LeetCode/tree/master/0890-lemonade-change) |
+| [0994-prison-cells-after-n-days](https://github.com/farhanhaider624/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
@@ -121,6 +122,7 @@
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/farhanhaider624/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0994-prison-cells-after-n-days](https://github.com/farhanhaider624/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -181,6 +183,7 @@
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/farhanhaider624/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0738-monotone-increasing-digits](https://github.com/farhanhaider624/LeetCode/tree/master/0738-monotone-increasing-digits) |
+| [0994-prison-cells-after-n-days](https://github.com/farhanhaider624/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 ## Tree
 |  |
 | ------- |
@@ -237,4 +240,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0994-prison-cells-after-n-days](https://github.com/farhanhaider624/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
