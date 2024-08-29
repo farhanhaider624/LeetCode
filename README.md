@@ -180,6 +180,7 @@
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/farhanhaider624/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0738-monotone-increasing-digits](https://github.com/farhanhaider624/LeetCode/tree/master/0738-monotone-increasing-digits) |
 ## Tree
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0738-monotone-increasing-digits](https://github.com/farhanhaider624/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0890-lemonade-change](https://github.com/farhanhaider624/LeetCode/tree/master/0890-lemonade-change) |
 ## Combinatorics
 |  |
