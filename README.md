@@ -13,6 +13,7 @@
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/farhanhaider624/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/farhanhaider624/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/farhanhaider624/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 ## Graph
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/farhanhaider624/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1706-min-cost-to-connect-all-points](https://github.com/farhanhaider624/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/farhanhaider624/LeetCode/tree/master/2211-k-radius-subarray-averages) |
