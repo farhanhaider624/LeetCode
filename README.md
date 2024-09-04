@@ -55,6 +55,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/farhanhaider624/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1706-min-cost-to-connect-all-points](https://github.com/farhanhaider624/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/farhanhaider624/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2727-number-of-senior-citizens](https://github.com/farhanhaider624/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -157,6 +158,7 @@
 | [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Linked List
 |  |
@@ -233,6 +235,7 @@
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/farhanhaider624/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0890-lemonade-change](https://github.com/farhanhaider624/LeetCode/tree/master/0890-lemonade-change) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Combinatorics
 |  |
 | ------- |
