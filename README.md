@@ -54,6 +54,7 @@
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/farhanhaider624/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1706-min-cost-to-connect-all-points](https://github.com/farhanhaider624/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/farhanhaider624/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -145,6 +146,7 @@
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/farhanhaider624/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Database
 |  |
@@ -178,6 +180,7 @@
 | [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/farhanhaider624/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -223,6 +226,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/farhanhaider624/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
