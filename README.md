@@ -64,6 +64,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/farhanhaider624/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/farhanhaider624/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2227-sum-of-subarray-ranges](https://github.com/farhanhaider624/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/farhanhaider624/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/farhanhaider624/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
@@ -199,6 +200,7 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
+| [2227-sum-of-subarray-ranges](https://github.com/farhanhaider624/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -276,4 +278,8 @@
 | ------- |
 | [0994-prison-cells-after-n-days](https://github.com/farhanhaider624/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/farhanhaider624/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/farhanhaider624/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
