@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/farhanhaider624/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0018-4sum](https://github.com/farhanhaider624/LeetCode/tree/master/0018-4sum) |
 | [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
