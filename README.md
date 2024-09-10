@@ -17,6 +17,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/farhanhaider624/LeetCode/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/farhanhaider624/LeetCode/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/farhanhaider624/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -71,6 +72,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/farhanhaider624/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/farhanhaider624/LeetCode/tree/master/0922-possible-bipartition) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/farhanhaider624/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/farhanhaider624/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/farhanhaider624/LeetCode/tree/master/0922-possible-bipartition) |
@@ -119,6 +122,7 @@
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/farhanhaider624/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0684-redundant-connection](https://github.com/farhanhaider624/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/farhanhaider624/LeetCode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/farhanhaider624/LeetCode/tree/master/0922-possible-bipartition) |
