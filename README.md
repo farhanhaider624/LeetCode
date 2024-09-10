@@ -104,6 +104,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/farhanhaider624/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farhanhaider624/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/farhanhaider624/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
@@ -120,6 +121,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/farhanhaider624/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farhanhaider624/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0684-redundant-connection](https://github.com/farhanhaider624/LeetCode/tree/master/0684-redundant-connection) |
@@ -187,6 +189,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/farhanhaider624/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/farhanhaider624/LeetCode/tree/master/0725-split-linked-list-in-parts) |
@@ -225,6 +228,7 @@
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/farhanhaider624/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/farhanhaider624/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/farhanhaider624/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -259,6 +263,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/farhanhaider624/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/farhanhaider624/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
