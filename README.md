@@ -292,6 +292,7 @@
 |  |
 | ------- |
 | [0994-prison-cells-after-n-days](https://github.com/farhanhaider624/LeetCode/tree/master/0994-prison-cells-after-n-days) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/farhanhaider624/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/farhanhaider624/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Monotonic Stack
 |  |
