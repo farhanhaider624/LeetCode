@@ -1,19 +1,21 @@
 class Solution {
 public:
-    typedef pair<int, int> pi;
-    void distance(int i, vector<int> &dist, vector<int> adj[]){
-        priority_queue<pi, vector<pi>, greater<pi>> pq;
-        pq.push({0, i});
+    void bfs(int i, vector<int> &dist, vector<int> adj[]){
+        queue<pair<int, int>> q;
         dist[i]=0;
-        while(!pq.empty()){
-            auto itr=pq.top();
+        q.push({0, i});
+        while(!q.empty()){
+            auto itr=q.front();
             int dis=itr.first;
             int node=itr.second;
-            pq.pop();
+            q.pop();
             for(auto it:adj[node]){
                 if(1+dis<dist[it]){
                     dist[it]=min(dist[it], 1+dis);
-                    pq.push({dist[it], it});
+                    q.push({dist[it], it});
+                }else if(dist[it]==-1){
+                    dist[it]=1+dis;
+                    q.push({dist[it], it});
                 }
             }
         }
@@ -26,14 +28,10 @@ public:
             int v=edges[i];
             if(v!=-1) adj[u].push_back(v);
         }
-        vector<int> dist1(n, 1e9);
-        vector<int> dist2(n, 1e9);
-        distance(node1, dist1, adj);
-        distance(node2, dist2, adj);
-        for(int i=0; i<n; i++){
-            if(dist1[i]==1e9) dist1[i]=-1;
-            if(dist2[i]==1e9) dist2[i]=-1;
-        }
+        vector<int> dist1(n, -1);
+        vector<int> dist2(n, -1);
+        bfs(node1, dist1, adj);
+        bfs(node2, dist2, adj);
         int node=-1;
         int value=n;
         for(int i=0; i<n; i++){
