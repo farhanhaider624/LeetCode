@@ -70,6 +70,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/farhanhaider624/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/farhanhaider624/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2227-sum-of-subarray-ranges](https://github.com/farhanhaider624/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/farhanhaider624/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/farhanhaider624/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/farhanhaider624/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
@@ -303,9 +304,14 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/farhanhaider624/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/farhanhaider624/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/farhanhaider624/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/farhanhaider624/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/farhanhaider624/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/farhanhaider624/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
