@@ -103,6 +103,7 @@
 | [0038-count-and-say](https://github.com/farhanhaider624/LeetCode/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/farhanhaider624/LeetCode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/farhanhaider624/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
@@ -341,4 +342,16 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/farhanhaider624/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/farhanhaider624/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/farhanhaider624/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
