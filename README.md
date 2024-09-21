@@ -64,6 +64,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/farhanhaider624/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/farhanhaider624/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/farhanhaider624/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -171,6 +172,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/farhanhaider624/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/farhanhaider624/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/farhanhaider624/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/farhanhaider624/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -187,6 +189,7 @@
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/farhanhaider624/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/farhanhaider624/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Database
@@ -267,6 +270,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/farhanhaider624/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/farhanhaider624/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/farhanhaider624/LeetCode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/farhanhaider624/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Design
