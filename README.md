@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/farhanhaider624/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0386-lexicographical-numbers](https://github.com/farhanhaider624/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farhanhaider624/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/farhanhaider624/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/farhanhaider624/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
