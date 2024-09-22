@@ -105,6 +105,7 @@
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/farhanhaider624/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/farhanhaider624/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/farhanhaider624/LeetCode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
@@ -163,6 +164,7 @@
 | [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/farhanhaider624/LeetCode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
