@@ -53,6 +53,7 @@
 | [0189-rotate-array](https://github.com/farhanhaider624/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farhanhaider624/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0518-coin-change-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -233,6 +234,7 @@
 | [0018-4sum](https://github.com/farhanhaider624/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farhanhaider624/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/farhanhaider624/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
