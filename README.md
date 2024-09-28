@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/farhanhaider624/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/farhanhaider624/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/farhanhaider624/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/farhanhaider624/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/farhanhaider624/LeetCode/tree/master/0054-spiral-matrix) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/farhanhaider624/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/farhanhaider624/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0443-string-compression](https://github.com/farhanhaider624/LeetCode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
