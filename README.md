@@ -53,6 +53,7 @@
 | [0189-rotate-array](https://github.com/farhanhaider624/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/farhanhaider624/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farhanhaider624/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0518-coin-change-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0518-coin-change-ii) |
@@ -167,6 +168,7 @@
 | [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/farhanhaider624/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/farhanhaider624/LeetCode/tree/master/0290-word-pattern) |
 | [0433-minimum-genetic-mutation](https://github.com/farhanhaider624/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -190,6 +192,7 @@
 | [0018-4sum](https://github.com/farhanhaider624/LeetCode/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/farhanhaider624/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/farhanhaider624/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/farhanhaider624/LeetCode/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/farhanhaider624/LeetCode/tree/master/1129-longest-string-chain) |
@@ -256,6 +259,7 @@
 | [0048-rotate-image](https://github.com/farhanhaider624/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/farhanhaider624/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/farhanhaider624/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/farhanhaider624/LeetCode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/farhanhaider624/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -291,6 +295,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/farhanhaider624/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/farhanhaider624/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/farhanhaider624/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/farhanhaider624/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/farhanhaider624/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -333,6 +338,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/farhanhaider624/LeetCode/tree/master/0268-missing-number) |
 | [0994-prison-cells-after-n-days](https://github.com/farhanhaider624/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1435-xor-queries-of-a-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/farhanhaider624/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
