@@ -73,6 +73,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/farhanhaider624/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/farhanhaider624/LeetCode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/farhanhaider624/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1706-min-cost-to-connect-all-points](https://github.com/farhanhaider624/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/farhanhaider624/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/farhanhaider624/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2227-sum-of-subarray-ranges](https://github.com/farhanhaider624/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/farhanhaider624/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/farhanhaider624/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/farhanhaider624/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
