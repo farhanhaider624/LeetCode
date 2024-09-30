@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/farhanhaider624/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -43,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farhanhaider624/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/farhanhaider624/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/farhanhaider624/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/farhanhaider624/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/farhanhaider624/LeetCode/tree/master/0214-shortest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
