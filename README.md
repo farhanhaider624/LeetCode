@@ -53,6 +53,7 @@
 | [0064-minimum-path-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/farhanhaider624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/farhanhaider624/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/farhanhaider624/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/farhanhaider624/LeetCode/tree/master/0189-rotate-array) |
@@ -261,6 +262,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/farhanhaider624/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/farhanhaider624/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -363,6 +365,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/farhanhaider624/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2227-sum-of-subarray-ranges](https://github.com/farhanhaider624/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Brainteaser
 |  |
