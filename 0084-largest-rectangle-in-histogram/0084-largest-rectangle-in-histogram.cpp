@@ -1,22 +1,46 @@
 class Solution {
 public:
+    int nextSmallerLeft(int ind, vector<int>& heights) {
+        stack<int> st;
+        int i = 0;
+        while (i < ind) {
+            st.push(i);
+            while (!st.empty() && heights[st.top()] >= heights[ind]) {
+                st.pop();
+            }
+            i++;
+        }
+        if (!st.empty())
+            return st.top();
+        return -1;
+    }
+    int nextSmallerRight(int ind, vector<int>& heights) {
+        int n = heights.size();
+        stack<int> st;
+        int i = n - 1;
+        while (i > ind) {
+            st.push(i);
+            while (!st.empty() && heights[st.top()] >= heights[ind]) {
+                st.pop();
+            }
+            i--;
+        }
+        if (!st.empty())
+            return st.top();
+        return n;
+    }
+
     int largestRectangleArea(vector<int>& heights) {
         int n=heights.size();
-        stack<int> st;
-        int maxA=0;
-        
-        for(int i=0; i<=n; i++){
-            while(!st.empty() && (i==n || heights[st.top()]>=heights[i])){
-                int h = heights[st.top()];
-                st.pop();
-                int width;
-                if(st.empty()) width=i;
-                else width=i-st.top()-1;
-                maxA=max(maxA, width*h);
-            }
-            st.push(i);
+        int maxArea=0;
+        for (int i = 0; i < n; i++) {
+            int left = nextSmallerLeft(i, heights);
+            int right = nextSmallerRight(i, heights);
+            cout<<left<<" "<<right<<endl;
+            int width = right - left - 1;
+            int area = width * heights[i];
+            maxArea = max(maxArea, area);
         }
-        
-        return maxA;
+        return maxArea;
     }
 };
