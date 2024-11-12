@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/farhanhaider624/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/farhanhaider624/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -112,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/farhanhaider624/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/farhanhaider624/LeetCode/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/farhanhaider624/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/farhanhaider624/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -262,6 +264,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/farhanhaider624/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/farhanhaider624/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/farhanhaider624/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/farhanhaider624/LeetCode/tree/master/0735-asteroid-collision) |
