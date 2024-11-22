@@ -4,13 +4,11 @@ public:
         vector<int> temp;
         int left=low;
         int right=mid+1;
-
         while(left<=mid && right<=high){
             if(nums[left]<=nums[right]){
                 temp.push_back(nums[left]);
                 left++;
-            }
-            else{
+            }else{
                 temp.push_back(nums[right]);
                 right++;
             }
