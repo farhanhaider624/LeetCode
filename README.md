@@ -93,6 +93,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/farhanhaider624/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/farhanhaider624/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/farhanhaider624/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/farhanhaider624/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Union Find
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/farhanhaider624/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/farhanhaider624/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/farhanhaider624/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/farhanhaider624/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Sorting
 |  |
 | ------- |
@@ -354,12 +356,14 @@
 |  |
 | ------- |
 | [2211-k-radius-subarray-averages](https://github.com/farhanhaider624/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/farhanhaider624/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/farhanhaider624/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/farhanhaider624/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/farhanhaider624/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/farhanhaider624/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 ## Bit Manipulation
 |  |
 | ------- |
